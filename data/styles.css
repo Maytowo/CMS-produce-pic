@@ -7,8 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -53,11 +51,34 @@
 ._文本段落 {
   text-align:left;
 }
-._连接线 {
+.box_3 {
 }
-.sticky_3 {
+._默认样式 {
+}
+._跳转-移入 {
+  color:#1ABC9C;
+}
+.icon {
+}
+.line {
+}
+.text_field {
+  color:#000000;
   text-align:left;
 }
-.marker {
-  color:#FFFFFF;
+.checkbox {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+.box_1 {
+}
+.box_2 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.flow_shape {
 }
