@@ -1,1 +1,0 @@
-# CMS-produce-pic
